@@ -6,7 +6,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ruby,rails,react,nextjs,ts,tailwind,emotion,threejs,astro,vite,docker,firebase,npm,babel,gulp,webpack,xd,figma,git,github,netlify)](https://skillicons.dev)
 
+## Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=potatoman-dev&theme=dark&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoman-dev/potatoman-dev/output/github-contribution-grid-snake-dark.svg">
