@@ -12,10 +12,10 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker,firebase)](https://skillicons.dev)
 
 ### frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,emotion,styledcomponents,threejs,astro,vite,wordpress&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,emotion,styledcomponents,threejs,astro,vite,wordpress)](https://skillicons.dev)
 
 ### others
-[![My Skills](https://skillicons.dev/icons?i=npm,babel,gulp,webpack,xd,figma,git,github,netlify&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,babel,gulp,webpack,xd,figma,git,github,netlify)](https://skillicons.dev)
 
 ## Status
 
