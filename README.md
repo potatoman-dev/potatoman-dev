@@ -1,10 +1,21 @@
 <div id="header" align="center">
   <img src="./images/potatoman-circle.png" width="100"/>
+  <h1>Potatoman</h1>
+  <p>
+  <a href="https://x.com/potatoman_dev" target="_blank">x (twitter)</a>
+  </p>
 </div>
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ruby,rails,react,nextjs,ts,tailwind,emotion,threejs,astro,vite,docker,firebase,npm,babel,gulp,webpack,xd,figma,git,github,netlify)](https://skillicons.dev)
+### backend
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker,firebase)](https://skillicons.dev)
+
+### frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,emotion,styledcomponents,threejs,astro,vite,wordpress&perline=5)](https://skillicons.dev)
+
+### others
+[![My Skills](https://skillicons.dev/icons?i=npm,babel,gulp,webpack,xd,figma,git,github,netlify&perline=5)](https://skillicons.dev)
 
 ## Status
 
