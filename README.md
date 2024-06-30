@@ -2,6 +2,10 @@
   <img src="./images/potatoman-circle.png" width="100"/>
 </div>
 
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ruby,rails,react,nextjs,ts,tailwind,emotion,threejs,astro,vite,docker,firebase,npm,babel,gulp,webpack,xd,figma,git,github,netlify)](https://skillicons.dev)
+
 <!--
 **potatoman-dev/potatoman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
