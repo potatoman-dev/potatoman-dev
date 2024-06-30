@@ -6,7 +6,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ruby,rails,react,nextjs,ts,tailwind,emotion,threejs,astro,vite,docker,firebase,npm,babel,gulp,webpack,xd,figma,git,github,netlify)](https://skillicons.dev)
 
-![Potatoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoman-dev&show_icons=true&theme=github_dark_dimmed=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact)
+
+<!--![Potatoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoman-dev&show_icons=true&theme=github_dark_dimmed=)
+-->
 
 <!--
 **potatoman-dev/potatoman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
