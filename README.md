@@ -12,7 +12,7 @@
   <img align="left" src="https://streak-stats.demolab.com?user=potatoman-dev&theme=dark&border_radius=10&date_format=%5BY.%5Dn.j" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact&theme=transparent" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman-dev&layout=compact&theme=github_dark_dimmed" />
 </a>
 
 
